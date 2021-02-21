@@ -6,7 +6,7 @@ category: nonsense
 ---
 # Hello World
 
-> Hello!
+Hello!
 
 This is code
 ```ruby
